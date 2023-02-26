@@ -1,0 +1,92 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+' Ingrese un numero, se mostrara el numero ingresado y la suma de sus digitos. '
+6
+3
+3
+num
+1
+0
+3
+sum
+1
+0
+6
+valor1
+1
+0
+6
+3
+6
+valor2
+1
+0
+6
+valor3
+1
+0
+6
+valor4
+1
+0
+5
+1
+3
+num
+6
+2
+6
+valor1
+8
+num / 10
+6
+valor2
+10
+num mod 10
+6
+2
+3
+sum
+12
+sum + valor2
+6
+valor1
+25
+valor1 - ( valor2 * 0.1 )
+9
+1
+10
+valor1 > 0
+6
+1
+6
+valor3
+11
+valor1 / 10
+6
+3
+6
+valor4
+13
+valor1 mod 10
+3
+sum
+12
+sum + valor4
+6
+valor1
+25
+valor3 - ( valor4 * 0.1 )
+11
+4
+1
+71
+'El numro ingresado es: ', num,  '  La suma de sus digitos fue: ' , sum
+1
